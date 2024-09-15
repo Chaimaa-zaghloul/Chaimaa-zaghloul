@@ -1,22 +1,39 @@
-# 👋 Hello, I'm Chaimaa Zaghloul!
-
-# 💫 About Me:
-<br>I'm a passionate **Master’s student in AI & Digital Computing** with a deep interest in **Natural Language Processing (NLP)**, **Machine Learning (ML)**, and **Deep Learning (DL)**. I love leveraging technology to solve real-world problems and innovate new solutions.<br><br>## 🔍 What I’m Currently Learning<br>- **Advanced NLP Techniques** and models<br>- **Efficient Web Development** with Flask<br>- **Text Analysis** and spam detection<br><br>## 🤝 Let's Collaborate<br>I’m eager to collaborate on:<br>- **NLP Projects** (especially those involving Moroccan Darija)<br>- **Machine Learning Applications** across various domains<br>- **Open Source Projects** related to text analysis and web development<br><br><br><br><br>## ⚡ Fun Fact<br>I’m fascinated by the intersection of language and technology, and I enjoy discovering innovative ways to tackle complex challenges!<br>
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Zaghloul Chaimaa  ) 
 
+# 👋 Hello, I'm Chaimaa Zaghloul!
+Master’s student in AI & Digital Computing
+
+# 💫 About Me:
+<br>I'm a passionate **Master’s student in AI & Digital Computing** with a deep interest in **Natural Language Processing (NLP)**, **Machine Learning (ML)**, and **Deep Learning (DL)**. I love leveraging technology to solve real-world problems and innovate new solutions.<br><br>## 🔍 What I’m Currently Learning<br>- **Advanced NLP Techniques** and models<br>- **Efficient Web Development** with Flask<br>- **Text Analysis** and spam detection<br><br>## 🤝 Let's Collaborate<br>I’m eager to collaborate on:<br>- **NLP Projects** (especially those involving Moroccan Darija)<br>- **Machine Learning Applications** across various domains<br>- **Open Source Projects** related to text analysis and web development<br><br><br><br><br>## ⚡ Fun Fact<br>I’m fascinated by the intersection of language and technology, and I enjoy discovering innovative ways to tackle complex challenges!<br>
+
+
 
 # 💻 Tech Stack:
+
 ### Programming Languages
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="50" height="50"/> 
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="50" height="50"/> 
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50" height="50"/> 
+<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="50" height="50"/> 
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="50" height="50"/> 
+<img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="50" height="50"/> 
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50" height="50"/>
 
 ### Frameworks and Libraries
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FC7D02?logo=tensorflow&logoColor=white)
+<img src="https://img.icons8.com/color/48/000000/flask.png" alt="Flask" width="50" height="50"/> 
+<img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="50" height="50"/>
 
 ### Tools
-![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apache-spark&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white) ![Adobe](https://img.shields.io/badge/-Adobe-FF0000?logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)
+<img src="https://img.icons8.com/color/48/000000/anaconda.png" alt="Anaconda" width="50" height="50"/> 
+<img src="https://img.icons8.com/color/48/000000/apache-spark.png" alt="Apache Spark" width="50" height="50"/> 
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="50" height="50"/> 
+<img src="https://img.icons8.com/color/48/000000/oracle.png" alt="Oracle" width="50" height="50"/> 
+<img src="https://img.icons8.com/color/48/000000/adobe.png" alt="Adobe" width="50" height="50"/> 
+<img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" width="50" height="50"/>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Chaimaa-zaghloul&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Chaimaa-zaghloul&theme=github_dark&hide_border=false)<br/>
