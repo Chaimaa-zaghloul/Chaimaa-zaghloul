@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Chaimaa Zaghloul</h1>
 <h3 align="center">Master’s student in AI & Digital Computing</h3>
-<img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/1087689747481711631/">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/55/ec/cd/55eccde475240df4f8b24da0291b45b0.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaimaa-zaghloul&label=Profile%20views&color=0e75b6&style=flat" alt="chaimaa-zaghloul" /> </p>
 
