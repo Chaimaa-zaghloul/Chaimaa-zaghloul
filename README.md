@@ -1,9 +1,8 @@
-
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/55/ec/cd/55eccde475240df4f8b24da0291b45b0.jpg">
 <h1 align="center">Hi 👋, I'm Chaimaa Zaghloul</h1>
 <h3 align="center">Master’s student in AI & Digital Computing</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/55/ec/cd/55eccde475240df4f8b24da0291b45b0.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaimaa-zaghloul&label=Profile%20views&color=0e75b6&style=flat" alt="chaimaa-zaghloul" /> </p>
+
 
 - 🌱 I’m currently learning **- Advanced NLP techniques and models - Developing efficient web applications with Flask - Enhancing my skills in text analysis and spam detection**
 
