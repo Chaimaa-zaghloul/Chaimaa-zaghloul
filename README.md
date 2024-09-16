@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/55/ec/cd/55eccde475240df4f8b24da0291b45b0.jpg">
+[![MasterHead]("https://i.pinimg.com/originals/55/ec/cd/55eccde475240df4f8b24da0291b45b0.jpg")
 <h1 align="center">Hi 👋, I'm Chaimaa Zaghloul</h1>
 <h3 align="center">Master’s student in AI & Digital Computing</h3>
 
