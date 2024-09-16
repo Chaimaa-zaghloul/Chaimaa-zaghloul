@@ -2,13 +2,13 @@
   <img src="https://i.pinimg.com/originals/55/ec/cd/55eccde475240df4f8b24da0291b45b0.jpg" alt="MasterHead" width="600">
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://linkedin.com/in/zaghloul-chaimaa" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zaghloul chaimaa" height="30" width="40" />
   </a>
   <a href="mailto:chaimaazaghloul01@gmail.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail_Icon.svg" alt="Gmail" height="30" width="40" />
+    <img align="center" src="https://seeklogo.com/images/G/gmail-icon-logo-9ADB17D3F3-seeklogo.com.png" alt="Gmail" height="30" width="50" />
   </a>
 </p>
 
@@ -20,17 +20,17 @@
 
 
 
-- 🌱 I’m currently learning **- Advanced NLP techniques and models - Developing efficient web applications with Flask - Enhancing my skills in text analysis and spam detection**
+- 🌱 I’m currently learning **-Advanced NLP techniques and models / Developing efficient web applications with Flask / Enhancing my skills in text analysis and spam detection**
 
-- 👀 I'm interested in:  - Natural Language Processing (NLP) - Machine Learning (ML) and Deep Learning (DL) - Python Programming - Academic and practical applications of technology**
+- 👀 I'm interested in:  ** Natural Language Processing (NLP) / Machine Learning (ML) and Deep Learning (DL) / Python Programming / Academic and practical applications of technology**
 
-- 🤝 Let's Collaborate **I’m eager to collaborate on: - **NLP Projects** (especially those involving Moroccan Darija) - **Machine Learning Applications** across various domains - **Open Source Projects** related to text analysis and web development**
+- 🤝 Let's Collaborate **I’m eager to collaborate on: - **NLP Projects** (especially those involving Moroccan Darija) /**Machine Learning Applications** across various domains / **Open Source Projects** related to text analysis and web development**
 
 - 👨‍💻 All of my projects are available at (https://github.com/Chaimaa-zaghloul)
 
 
 
-- ⚡ Fun fact ** "I’m passionate about exploring the intersection of language and technology, and I love finding innovative solutions to real-world problems!"**
+- ⚡ Fun fact ** I’m passionate about exploring the intersection of language and technology, and I love finding innovative solutions to real-world problems!**
 
 
 
