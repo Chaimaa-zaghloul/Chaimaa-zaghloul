@@ -92,7 +92,7 @@
 
 <br/><br/>
 
-<h3 align="center">       🛠 📊 GitHub Stats:</h3>
+<h3 align="center">       📊 GitHub Stats:</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Chaimaa-zaghloul&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
